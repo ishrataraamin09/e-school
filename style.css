@@ -1,0 +1,63 @@
+.history{
+background-color: #F0FFF0;
+}
+
+.logo{
+    height: 60px;
+    width: 200px;
+}
+.sign-in-button{
+    background-color:#21B573;
+    color: white;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    padding: 8px 25px;
+}
+.highlighter{
+    color: #21B573;
+}
+.container p{
+    color: gray;
+}
+.categories{
+    margin-top: 100px;
+}
+
+.cat-img{
+    width: 66px;
+    height: 85px;
+    padding: 5px 5px;
+}
+.cat-1{
+    background-color: #F0FFF0;
+}
+.cat-2{
+    background-color: white;
+}
+.cat-3{
+    background-color: #F0FFF0;
+}
+.cat-4{
+    background-color: #F0FFF0;
+}
+.cat-1, .cat-2, .cat-3, .cat-4{
+    padding: 10px 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.third-sec{
+    margin-top: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    height: 480px;
+    width: 370px;
+}
+.card img{
+    height: 230px;
+    width: 330px;
+    padding: 15px 0px 0px 20px; 
+}
